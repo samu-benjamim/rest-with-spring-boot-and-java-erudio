@@ -1,4 +1,5 @@
 *.class
+application.yml
 
 
 /node_modules
